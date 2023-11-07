@@ -1,5 +1,1 @@
-# Netflix-
-# Yashu-Netflix
-# Yashu-Netflix
-# Yashu-Netflix
-# YashuNetflix
+Clone of Netflix as YashuNetflix
